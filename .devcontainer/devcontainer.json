@@ -1,4 +1,0 @@
-{
-    "name": "Node.js Alpine",
-    "image": "node:lts-alpine"
-}
